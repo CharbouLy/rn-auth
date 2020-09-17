@@ -22,6 +22,9 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "facebookAutoInitEnabled": true
+    "facebookAutoInitEnabled": true,
+    "android": {
+      "package": "com.bouly.rnauth"
+    }
   }
 }
